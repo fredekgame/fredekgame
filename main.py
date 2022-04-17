@@ -2,7 +2,7 @@ import pyowm
 import telebot
 import time
 from pyowm.utils.config import get_default_config
-#
+
 botToken = ('5179292832:AAGHTaTb0dJQgaA33dPvfsoElzJthYu73hQ') 
 bot = telebot.TeleBot(botToken)
 owmToken = ('b0cc036c5e1d3c065d1218286e4b72cd') 
